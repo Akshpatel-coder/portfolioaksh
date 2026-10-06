@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0F172A"/><stop offset="1" stop-color="#1E293B"/></linearGradient></defs>
+<rect width="1200" height="650" fill="url(#g)"/>
+<circle cx="980" cy="130" r="180" fill="#38BDF8" opacity=".08"/>
+<circle cx="180" cy="550" r="220" fill="#818CF8" opacity=".06"/>
+<rect x="80" y="80" width="1040" height="490" rx="28" fill="#111827" stroke="#334155"/>
+<text x="140" y="210" fill="#38BDF8" font-family="Arial" font-size="38" font-weight="700">PROJECT 1</text>
+<text x="140" y="285" fill="#F8FAFC" font-family="Arial" font-size="48" font-weight="700">Furniro</text>
+<text x="140" y="350" fill="#CBD5E1" font-family="Arial" font-size="25">Replace this placeholder with your project screenshot.</text>
+<rect x="140" y="420" width="240" height="12" rx="6" fill="#38BDF8" opacity=".65"/>
+<rect x="400" y="420" width="180" height="12" rx="6" fill="#818CF8" opacity=".65"/>
+</svg>
